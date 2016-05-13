@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[therealnews]]></title>
         <description><![CDATA[therealnews]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/therealnews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 09:26:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 09:42:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/therealnews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/therealnews/d22e6e4f-33b3-4d44-854b-3d97c05ddca5/index.html</link>
+            <guid isPermaLink="false">d22e6e4f-33b3-4d44-854b-3d97c05ddca5</guid>
+            <pubDate>Fri, 13 May 2016 09:42:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>New Music Video Goes Viral – Injecting Music into Politics</p>]]></description>
-            <link>undefined2b4d2242-eb9c-4292-9c7a-799a94dc4b31/index.html</link>
+            <link>https://thegrid.ai/therealnews/2b4d2242-eb9c-4292-9c7a-799a94dc4b31/index.html</link>
             <guid isPermaLink="false">2b4d2242-eb9c-4292-9c7a-799a94dc4b31</guid>
             <pubDate>Fri, 13 May 2016 09:26:16 GMT</pubDate>
         </item>
