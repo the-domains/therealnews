@@ -1,0 +1,28 @@
+name: therealnews
+favicon: null
+layout_spectrum: 0.29206179454922676
+typography_spectrum: 0.7313904403708875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9388595796190202
+  lightness: 0.811527265701443
+  saturation: 0.025864030933007598
+  rhythmicContrast: 0.5448336456902325
+purpose: []
